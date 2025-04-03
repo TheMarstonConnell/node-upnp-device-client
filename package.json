@@ -5,6 +5,7 @@
   "author": "thibauts",
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "concat-stream": "^1.4.8",
     "debug": "^2.1.3",
